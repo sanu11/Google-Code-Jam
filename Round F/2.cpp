@@ -68,7 +68,6 @@ int main()
 			cout<<k<<" "<<dis[k]<<endl;
 		}
 	}
-
 }
 	return 0;
 }
